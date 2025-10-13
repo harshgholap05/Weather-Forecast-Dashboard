@@ -18,6 +18,10 @@ This project aims to build a centralized Weather Dashboard that provides:**
 
 **The goal is to help users plan their day better and stay informed about environmental health.**
 
+## 📁 Project Resources
+
+**Dataset:** 
+
 ## 💡 Solution Overview
 
 **The Weather Dashboard integrates multiple environmental and meteorological KPIs into a single visual report.
@@ -52,13 +56,6 @@ With dynamic visuals and real-time updates, the dashboard simplifies decision-ma
 
 * **Chance of Rain (%)** — Represents rain probability for the next 7 days.
 
-## 📁 Project Resources
-
-Dataset: (Add your dataset link here)
-
-Dashboard File: (Add Power BI file link here)
-
-Dashboard Screenshot: (Insert image here)
 
 ## 🧰 Tools & Technologies Used
 
