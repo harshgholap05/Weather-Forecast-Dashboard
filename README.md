@@ -1,4 +1,4 @@
-# 🌦️ Weather Dashboard 
+# 🌦️ Weather Dashboard                 
 
 **The Weather Dashboard provides real-time and forecasted weather insights for multiple cities. It visualizes temperature, humidity, wind speed, air quality, and rain probability through interactive cards and charts.
 This dashboard helps users monitor climate conditions, track daily forecasts, and analyze air quality trends effectively.**
@@ -62,7 +62,6 @@ With dynamic visuals and real-time updates, the dashboard simplifies decision-ma
 
 * **Chance of Rain (%)** — Represents rain probability for the next 7 days.
 
-
 ## 🧰 Tools & Technologies Used
 
 * **Power BI** — Dashboard creation and visualization
@@ -83,3 +82,6 @@ With dynamic visuals and real-time updates, the dashboard simplifies decision-ma
 
 **The Weather Dashboard offers an intuitive and visually appealing way to analyze and forecast weather conditions.
 By integrating real-time metrics and environmental KPIs, it provides a complete picture of the current and upcoming climate trends**.
+ 
+ ##
+ ## [Linkedin](https://www.linkedin.com/in/harshvardhan-gholap-821255326/)
