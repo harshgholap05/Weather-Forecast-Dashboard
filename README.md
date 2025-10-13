@@ -35,8 +35,8 @@ It allows users to switch between cities and observe changes in weather paramete
 With dynamic visuals and real-time updates, the dashboard simplifies decision-making and improves weather awareness.**
 
 ## 📽️ Dashboard Preview
-
-
+---
+---
 
 ## 📊 Key Performance Indicators (KPIs)
 
