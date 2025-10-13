@@ -62,6 +62,8 @@ With dynamic visuals and real-time updates, the dashboard simplifies decision-ma
 * **Power BI** — Dashboard creation and visualization
 
 * **Power BI Service** — For publishing and hosting live dashboard preview
+  
+* **WeatherAPI — https://www.weatherapi.com/** (Real-time and forecast weather data via API key integration)
 
 * **Excel / CSV Data** — Data source and cleaning
 
