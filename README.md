@@ -1,4 +1,4 @@
-# 🌦️ Weather Dashboard                 
+# 🌦️ Weather Dashboard                  
 
 **The Weather Dashboard provides real-time and forecasted weather insights for multiple cities. It visualizes temperature, humidity, wind speed, air quality, and rain probability through interactive cards and charts.
 This dashboard helps users monitor climate conditions, track daily forecasts, and analyze air quality trends effectively.**
@@ -33,6 +33,10 @@ This project aims to build a centralized Weather Dashboard that provides:**
 **The Weather Dashboard integrates multiple environmental and meteorological KPIs into a single visual report.
 It allows users to switch between cities and observe changes in weather parameters, air quality, and rain forecasts.
 With dynamic visuals and real-time updates, the dashboard simplifies decision-making and improves weather awareness.**
+
+## 📽️ Dashboard Preview
+
+
 
 ## 📊 Key Performance Indicators (KPIs)
 
