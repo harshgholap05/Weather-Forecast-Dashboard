@@ -1,4 +1,4 @@
-# 🌦️ Weather Dashboard
+# 🌦️ Weather Dashboard 
 
 **The Weather Dashboard provides real-time and forecasted weather insights for multiple cities. It visualizes temperature, humidity, wind speed, air quality, and rain probability through interactive cards and charts.
 This dashboard helps users monitor climate conditions, track daily forecasts, and analyze air quality trends effectively.**
@@ -18,9 +18,15 @@ This project aims to build a centralized Weather Dashboard that provides:**
 
 **The goal is to help users plan their day better and stay informed about environmental health.**
 
-## 📁 Project Resources
+## 📁 Dataset
 
-**Dataset:** 
+[Current.xlsx](https://github.com/harshgholap05/Weather-Forecast-Dashboard/blob/main/Dataset/Current.xlsx)
+
+[Forcast_Day.xlsx](https://github.com/harshgholap05/Weather-Forecast-Dashboard/blob/main/Dataset/Forcast_Day.xlsx)
+
+[Forcast_Hour.xlsx](https://github.com/harshgholap05/Weather-Forecast-Dashboard/blob/main/Dataset/Forcast_Hour.xlsx)
+
+[MasterReport.xlsx](https://github.com/harshgholap05/Weather-Forecast-Dashboard/blob/main/Dataset/MasterReport.xlsx)
 
 ## 💡 Solution Overview
 
