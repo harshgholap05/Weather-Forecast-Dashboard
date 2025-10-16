@@ -34,8 +34,22 @@ This project aims to build a centralized Weather Dashboard that provides:**
 It allows users to switch between cities and observe changes in weather parameters, air quality, and rain forecasts.
 With dynamic visuals and real-time updates, the dashboard simplifies decision-making and improves weather awareness.**
 
-## 📽️ Dashboard Preview
----
+## 📸 Dashboard Preview
+
+<img width="1290" height="726" alt="Screenshot 2025-10-16 213450" src="https://github.com/user-attachments/assets/306db573-bbed-4569-9394-4c03a1ccf02b" />
+
+##
+
+<img width="1411" height="789" alt="Screenshot 2025-10-16 213704" src="https://github.com/user-attachments/assets/3a16bb9d-86b9-4c7d-87b6-7dd6bf2f291b" />
+
+##
+
+<img width="1410" height="789" alt="Screenshot 2025-10-16 213835" src="https://github.com/user-attachments/assets/dcea934f-9f46-4c69-808c-2aaad8ab247c" />
+
+##
+
+<img width="1408" height="790" alt="Screenshot 2025-10-16 213744" src="https://github.com/user-attachments/assets/00f7dd06-d204-4d84-8025-1151f7f69c10" />
+
 ---
 
 ## 📊 Key Performance Indicators (KPIs)
