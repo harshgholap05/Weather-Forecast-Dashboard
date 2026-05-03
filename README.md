@@ -51,7 +51,9 @@
 | View 1 | View 2 |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/306db573-bbed-4569-9394-4c03a1ccf02b" width="500" alt="Screenshot 1"/> | <img src="https://github.com/user-attachments/assets/3a16bb9d-86b9-4c7d-87b6-7dd6bf2f291b" width="500" alt="Screenshot 2"/> |
+| **View 3** | **View 4** |
 | <img src="https://github.com/user-attachments/assets/dcea934f-9f46-4c69-808c-2aaad8ab247c" width="500" alt="Screenshot 3"/> | <img src="https://github.com/user-attachments/assets/00f7dd06-d204-4d84-8025-1151f7f69c10" width="500" alt="Screenshot 4"/> |
+
 
 ---
 
